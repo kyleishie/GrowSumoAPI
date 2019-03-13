@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RESTClient",
+        "repositoryURL": "https://github.com/kyleishie/RESTClient.git",
+        "state": {
+          "branch": "master",
+          "revision": "84dcdf528d10e1dc3ab542c08fb6cb5edcde4682",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
